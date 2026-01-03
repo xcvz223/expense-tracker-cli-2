@@ -1,0 +1,1 @@
+const util_d4jd = (d: any) => d;
